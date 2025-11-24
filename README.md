@@ -6,7 +6,7 @@ Steps:
 • Estimate channel blindly using EM → obtain h and σ².
 • Initialize EM parameters using K-means clustering.
 • Compute cumulants: C₄₂, C₆₃, C₈₀, C₈₄ after channel inversion.
-• Perform distance-based classification in cumulant feature space.
+• Perform distance-based classification in cumulant feature space. Image_1.png Image_2.png
 
 # Scenario 1: Classification Under Single-Tap Channel
 1. Required sample count (histograms) for all modulation types
