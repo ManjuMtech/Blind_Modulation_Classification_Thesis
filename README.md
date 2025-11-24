@@ -13,8 +13,8 @@ Steps:
 – evaluated using perfect and EM-estimated channel parameters.
 2. Classification confidence comparison
 – shown for both perfect and EM-based channel estimation.
-https://github.com/ManjuMtech/Blind_Modulation_Classification_Thesis/blob/main/Image_1.png
-https://github.com/ManjuMtech/Blind_Modulation_Classification_Thesis/blob/main/Image_2.png
+https://github.com/ManjuMtech/Blind_Modulation_Classification_Thesis/blob/main/Image_1.png (Perfect Chl case)
+https://github.com/ManjuMtech/Blind_Modulation_Classification_Thesis/blob/main/Image_2.png (EM est case)
 # Scenario 2: Classification Under Multi-Tap Channel
 1. PCC vs SNR using perfect channel estimation.
 2. PCC vs SNR using EM-based channel estimation.
